@@ -13,6 +13,11 @@ a {
   color: #3083A8;
 }
 
+.col-link, .col-link:hover {
+  color: #212529;
+  text-decoration: none;
+}
+
 .wrapper {
   max-width: 640px;
   margin: 0 auto;
