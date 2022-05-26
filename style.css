@@ -118,6 +118,11 @@ main p {
   color: #fff;
 }
 
+.btn-primary:active {
+  background-color: #326278 !important;
+  color: #fff;
+}
+
 .modal-lg {
   max-width: 640px;
 }
